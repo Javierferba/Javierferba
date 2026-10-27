@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Javierferba
 - 👀 I’m interested in codifying and AI
-- 🌱 I’m currently studiying Software/Computing Engineering
+- 🌱 I’m graduated from Software/Computing Engineering
 - 📫 How to reach me javierfb73@gmail.com
 
 <!---
